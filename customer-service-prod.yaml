@@ -1,7 +1,7 @@
 build:
     version: "1.0"
 customer:
-    message: "Welcome to MSEDCL Customer created REST API -Production Customer API"
+    message: "Welcome to MSEDCL Customer created REST API -Production"
     contactDetails:
         name: "Priyaanka"
         email: "priyanka@gmail.com"
