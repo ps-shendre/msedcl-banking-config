@@ -2,7 +2,7 @@
 build:
     version: "2.0"
 account:
-    message: "Welcome to MSEDCL Account service created REST API -Production ACCount"
+    message: "Welcome to MSEDCL Account service created REST API -Prod"
     contactDetails:
         name: "Jr. NTR"
         email: "ntr@gmail.com"
