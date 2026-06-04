@@ -1,0 +1,27 @@
+spring:
+    application:
+        name: "customer-service"
+    datasource:
+        username: root
+        password: root123
+        url: jdbc:mysql://localhost:3306/customer_db
+        driver-class-name: com.mysql.cj.jdbc.Driver
+springdoc:
+    api-docs:
+        enabled: false
+server:
+    port: 8081
+logging:
+    file:
+        name: logs/customer.log
+#Custom propertis -used in application
+build:
+    version: "1.0"
+customer:
+    message: "Welcome to MSEDCL Customer created REST API - UAT"
+    contactDetails:
+        name: "Shraddha"
+        email: "shraddha@gmail.com"
+    OnCallSupport:
+        - 1234567890
+        - 9865233548
