@@ -2,7 +2,7 @@
 build:
     version: "2.0"
 account:
-    message: "Welcome to MSEDCL Account service created REST API - UAT Accountapi"
+    message: "Welcome to MSEDCL Account service created REST API - UAT "
     contactDetails:
         name: "Arjun"
         email: "arjun@gmail.com"
