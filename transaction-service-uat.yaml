@@ -1,7 +1,7 @@
 build:
  version: "3.0"
 transaction:
-   message: "Welcome to MSEDCL Transaction service created REST API-PreProduction"
+   message: "Welcome to MSEDCL Transaction service created REST API-uat Transaction api"
    contactDetails:
        name: "Diya"
        email: "diya@mahadiscom.com"
